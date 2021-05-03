@@ -8,7 +8,7 @@
         padding: 4rem 2.5rem;
         position: relative;
         height: 98rem;
-        width: 63rem;
+        width: 64rem;
         font-family: 'Alata', 'josefin';
     }
     body{
@@ -44,22 +44,26 @@
     .banner2{
         display: flex;
         flex-direction: column;
-        padding-left: 27%;
+        padding-left: 19%;
+    }
+    .banner3{
+        display: flex;
+        flex-direction: column;
+        padding-left: 19%;  
     }
     .text-wrap{
-        width: 170vw;
-        margin-top: 0%;
-        margin: 0rem 0rem 0rem -2rem;
+        width: 136vw;
+        margin: 0rem 0rem 0rem 0rem;
         }
     
     .desc2{
         border: 1px solid white;
         text-align: center;
-        margin-left: 40%;
+        margin-left: 20%;
         margin-right: -61%;
         padding-left: 0%;
         padding-right: 0%;
-        font-size: 26px;
+        font-size: 33px;
     }
     .img1{
         width: 58rem;
@@ -74,24 +78,23 @@
     .title2{
         text-align: center;
         border: 1px solid white;
-        margin-left: 46%;
-        margin-right: -28%;
+        margin-left: 40%;
+        margin-right: -20%;
         font-size: 40px;
         margin-top: 17%;
         padding-top: 5%;
         padding-left: 0%;
         padding-right: 0%;
-    }
+     }
     .title3{
         font-size: 40px;
-        margin-right: -51%;
         text-align: center;
-        margin-left: 110%;
-        margin-top: 50%;
+        margin-left: 36%;
+        margin-right: -94%;
+        margin-top: 80%;
     }
     .btn1{
-        position: absolute;
-        top: 6560px;
+        display: none;
         margin-left: 475px;
         margin-top: 0%;
         background-color: white;
@@ -103,6 +106,22 @@
         padding-bottom: 3%;
         
     }
+    .button{
+        margin-left: 91%;
+        margin-right: -86%;
+        display: block;
+    }
+    .btn2{
+        margin-top: 0%;
+        background-color: white;
+        margin-bottom: 5%;
+        padding-left: 14%;
+        padding-right: 14%;
+        font-family: 'Alata';
+        padding-top: 3%;
+        font-size: 35px;
+        padding-bottom: 3%;
+    }
     .box1{
         display: flex;
         flex-direction: column;
@@ -113,7 +132,7 @@
         content: url(../images/mobile/image-deep-earth.jpg);
         width: 60rem;
         height: 22rem;
-        padding: 2rem 1.5rem;
+        padding: 2rem 1rem;
     }
     .DE{
         position: absolute;
@@ -125,7 +144,7 @@
         content: url(../images/mobile/image-night-arcade.jpg);
         width: 60rem;
         height: 22rem;
-        padding: 2rem 1.5rem;
+        padding: 2rem 1rem;
     }
     .NA{
         position: absolute;
@@ -137,7 +156,7 @@
         content: url(../images/mobile/image-soccer-team.jpg);
         width: 60rem;
         height: 22rem;
-        padding: 2rem 1.5rem;
+        padding: 2rem 1rem;
     }
     .ST{
         position: absolute;
@@ -149,7 +168,7 @@
         content: url(../images/mobile/image-grid.jpg);
         width: 60rem;
         height: 22rem;
-        padding: 2rem 1.5rem;
+        padding: 2rem 1rem;
     }
     .TG{
         position: absolute;
@@ -167,7 +186,7 @@
         content: url(../images/mobile/image-from-above.jpg);
         width: 60rem;
         height: 22rem;
-        padding: 2rem 1.5rem;
+        padding: 2rem 1rem;
     }
     .FUP{
         position: absolute;
@@ -179,7 +198,7 @@
         content: url(../images/mobile/image-pocket-borealis.jpg);
         width: 60rem;
         height: 22rem;
-        padding: 2rem 1.5rem;
+        padding: 2rem 1rem;
     }
     .PB{
         position: absolute;
@@ -191,7 +210,7 @@
         content: url(../images/mobile/image-curiosity.jpg);
         width: 60rem;
         height: 22rem;
-        padding: 2rem 1.5rem;
+        padding: 2rem 1rem;
     }
     .TC{
         position: absolute;
@@ -203,7 +222,7 @@
         content: url(../images/mobile/image-fisheye.jpg);
         width: 60rem;
         height: 22rem;
-        padding: 2rem 1.5rem;
+        padding: 2rem 1rem;
     }
     .MIF{
         position: absolute;
@@ -320,19 +339,25 @@
         content: url(../images/mobile/image-interactive.jpg);
 
     }
-    p.desc2 {
-        /* border: 1px solid black; */
-        margin-left: 1%;
-        margin-right: 9%;
-        }
+    .desc2 {
+        border: 1px solid white;
+        text-align: center;
+        margin-left: -12%;
+        margin-right: 12%;
+        padding-left: 0%;
+        padding-right: 0%;
+        font-size: 40px;
+     }
     .title3{
-        margin-left: 60%;
-        font-size: 50px;
-         border: 1px solid white;
+        font-size: 40px;
+        text-align: center;
+        margin-left: 57%;
+        margin-right: -94%;
+        margin-top: 50%;
     }
     .btn1{
-        position: absolute;
-        top: 6735px;
+        display: none;
+        top: 6740px;
         margin-left: 543px;
         margin-top: 0%;
         background-color: white;
@@ -343,6 +368,23 @@
         padding-top: 3%;
         padding-bottom: 3%;
     }
+    .button{
+        margin-left: 67%;
+        margin-right: -86%;
+        display: block;
+    }
+    .btn2{
+        margin-top: 0%;
+        background-color: white;
+        margin-bottom: 5%;
+        padding-left: 14%;
+        padding-right: 14%;
+        font-family: 'Alata';
+        padding-top: 3%;
+        font-size: 35px;
+        padding-bottom: 3%;
+        }
+
     .box1{
         display: flex;
         flex-direction: column;
@@ -505,8 +547,8 @@
         background-size: cover;
         padding: 4rem 2.5rem;
         position: relative;
-        height: 166rem;
-        width: 101rem;
+        height: 198rem;
+        width: 114rem;
         font-family: 'Alata', 'josefin';
         
     }
@@ -551,52 +593,44 @@
         margin-left: -27px;
     }
     .text-wrap{
-        width: 132vw;
+        width: 155vw;
         margin-top: 1%;
         margin: 0rem 0rem 0rem 11rem;
     }
-        /* .text-wrap{
-        margin-top: 10.5%;
-        height: 29vh;
-        position: relative;
-        right: 74%;
-        padding-top: 0%;
-        color: grey;
-        background-color: #fff;
-        width: 127%;
-        margin-left: 80%;
-        text-align: center;
-        font-size: 26px;
-        } */
     .title2{
         text-align: center;
         padding-right: 2%;
-        padding-left: 2%;
+        padding-left: 0%;
         margin-left: 18%;
         margin-right: 20%;
         padding-top: 1%;
-        font-size: 44px;
+        font-size: 50px
         }
     .img1{
-        width: 87rem;
-        height: 45rem;
+        width: 100rem;
+        height: 50rem;
         padding: 4rem 1.5rem;
         content: url(../images/mobile/image-interactive.jpg);
 
     }
-    p.desc2 {
-        /* border: 1px solid black; */
-        margin-left: 8%;
-        margin-right: 9%;
-        font-size: 40px;
+    .desc2 {
+        border: 1px solid white;
+        text-align: center;
+        margin-left: 2%;
+        margin-right: 12%;
+        padding-left: 0%;
+        padding-right: 0%;
+        font-size: 49px;
         }
     .title3{
-        margin-left: 61%;
-        font-size: 40px;
-         border: 1px solid white;
+        font-size: 50px;
+        text-align: center;
+        margin-left: 62%;
+        margin-right: -94%;
+        margin-top: 50%;
     }
     .btn1{
-        position: absolute;
+        display: none;
         top: 8145px;
         margin-left: 684px;
         margin-top: 0%;
@@ -606,8 +640,23 @@
         padding-right: 14%;
         font-family: 'Alata';
         padding-top: 3%;
+        padding-bottom: 3%;  
+    }
+    .button{
+        margin-left: 70%;
+        margin-right: -86%;
+        display: block;
+    }
+    .btn2{
+        margin-top: 0%;
+        background-color: white;
+        margin-bottom: 5%;
+        padding-left: 14%;
+        padding-right: 14%;
+        font-family: 'Alata';
+        padding-top: 3%;
+        font-size: 35px;
         padding-bottom: 3%;
-        
     }
     .box1{
         display: flex;
@@ -617,7 +666,7 @@
     }
     .deep{
         content: url(../images/mobile/image-deep-earth.jpg);
-        width: 88rem;
+        width: 102rem;
         height: 23rem;
         padding: 2rem 0.5rem;
     }
@@ -629,7 +678,7 @@
     }
     .arcade{
         content: url(../images/mobile/image-night-arcade.jpg);
-        width: 88rem;
+        width: 102rem;
         height: 23rem;
         padding: 2rem 0.5rem;
     }
@@ -641,7 +690,7 @@
     }
     .soccer{
         content: url(../images/mobile/image-soccer-team.jpg);
-        width: 88rem;
+        width: 102rem;
         height: 23rem;
         padding: 2rem 0.5rem;
     }
@@ -656,7 +705,7 @@
     }
     .grid{
         content: url(../images/mobile/image-grid.jpg);
-        width: 88rem;
+        width: 102rem;
         height: 23rem;
         padding: 2rem 0.5rem;
     }
@@ -674,7 +723,7 @@
     }
     .above{
         content: url(../images/mobile/image-from-above.jpg);
-        width: 88rem;
+        width: 102rem;
         height: 23rem;
         padding: 2rem 0.5rem;
     }
@@ -686,7 +735,7 @@
     }
     .borealis{
         content: url(../images/mobile/image-pocket-borealis.jpg);
-        width: 88rem;
+        width: 102rem;
         height: 23rem;
         padding: 2rem 0.5rem;
     }
@@ -698,7 +747,7 @@
     }
     .curiosity{
         content: url(../images/mobile/image-curiosity.jpg);
-        width: 88rem;
+        width: 102rem;
         height: 23rem;
         padding: 2rem 0.5rem;
     }
@@ -710,7 +759,7 @@
     }
     .fisheye{
         content: url(../images/mobile/image-fisheye.jpg);
-        width: 88rem;
+        width: 102rem;
         height: 23rem;
         padding: 2rem 0.5rem;
     }
@@ -725,7 +774,7 @@
         height: 42rem;
         color: white;
         margin-top: 10%;
-        width: 106rem;
+        width: 119rem;
     }
     .footer_links{
         /* display: flex;

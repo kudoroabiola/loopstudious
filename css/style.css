@@ -93,6 +93,9 @@ nav{
     justify-content: space-between;
     margin-top: 10%;
 }
+.button{
+    display: none;
+}
 .btn1{
     margin-top: 6%;
     background-color: white;
