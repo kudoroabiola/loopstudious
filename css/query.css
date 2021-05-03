@@ -489,3 +489,270 @@
         font-size: 35px;
     }  
 }
+@media only screen and (min-width:721px) and (max-width:1024px) {
+    body{
+        font-size: 15px;
+        font-family: 'Alata', 'Josefin Sans';
+        font-weight: 300;
+        margin: 0;
+        padding: 0;
+    }
+    header{
+        background-color: hsl(0, 0%, 100%);
+        background-image: url(../images/mobile/image-hero.jpg);
+        background-repeat: no-repeat; 
+        background-position: center;
+        background-size: cover;
+        padding: 4rem 2.5rem;
+        position: relative;
+        height: 166rem;
+        width: 101rem;
+        font-family: 'Alata', 'josefin';
+        
+    }
+    body{
+        font-family: 'Josefin Sans', 'Alata';
+        font-size: 15px;
+        font-weight: 400;
+        margin: 0;
+        padding: 0;
+    }
+    .nav{
+        padding-top: 40px;
+        display: flex;
+        justify-content: space-between;
+        }
+    .logo{
+        margin-left: 20%;
+        width: 41vw;
+    }
+    .h-flex{
+        content: url(../images/icon-hamburger.svg);
+        width: 7%;
+    }
+    .banner{
+        border: 3px solid white;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-right: 5%;
+        padding-left: 2%;
+        padding-right: 5%;
+        margin-top: 37%;
+        padding-bottom: 14%;
+        margin-bottom: 13
+    }
+    .banner2{
+        display: flex;
+        flex-direction: column;
+        padding-left: 15%;
+    }
+    .img-banner{
+        width: 12vw;
+        margin-left: -27px;
+    }
+    .text-wrap{
+        width: 132vw;
+        margin-top: 1%;
+        margin: 0rem 0rem 0rem 11rem;
+    }
+        /* .text-wrap{
+        margin-top: 10.5%;
+        height: 29vh;
+        position: relative;
+        right: 74%;
+        padding-top: 0%;
+        color: grey;
+        background-color: #fff;
+        width: 127%;
+        margin-left: 80%;
+        text-align: center;
+        font-size: 26px;
+        } */
+    .title2{
+        text-align: center;
+        padding-right: 2%;
+        padding-left: 2%;
+        margin-left: 18%;
+        margin-right: 20%;
+        padding-top: 1%;
+        font-size: 44px;
+        }
+    .img1{
+        width: 87rem;
+        height: 45rem;
+        padding: 4rem 1.5rem;
+        content: url(../images/mobile/image-interactive.jpg);
+
+    }
+    p.desc2 {
+        /* border: 1px solid black; */
+        margin-left: 8%;
+        margin-right: 9%;
+        font-size: 40px;
+        }
+    .title3{
+        margin-left: 61%;
+        font-size: 40px;
+         border: 1px solid white;
+    }
+    .btn1{
+        position: absolute;
+        top: 8145px;
+        margin-left: 684px;
+        margin-top: 0%;
+        background-color: white;
+        margin-bottom: 5%;
+        padding-left: 14%;
+        padding-right: 14%;
+        font-family: 'Alata';
+        padding-top: 3%;
+        padding-bottom: 3%;
+        
+    }
+    .box1{
+        display: flex;
+        flex-direction: column;
+        margin-left: 12%;
+        margin-right: 25%;
+    }
+    .deep{
+        content: url(../images/mobile/image-deep-earth.jpg);
+        width: 88rem;
+        height: 23rem;
+        padding: 2rem 0.5rem;
+    }
+    .DE{
+        position: absolute;
+        bottom: 14px;
+        left: 57px;
+        font-size: 40px;
+    }
+    .arcade{
+        content: url(../images/mobile/image-night-arcade.jpg);
+        width: 88rem;
+        height: 23rem;
+        padding: 2rem 0.5rem;
+    }
+    .NA{
+        position: absolute;
+        bottom: 14px;
+        left: 57px;
+        font-size: 40px;
+    }
+    .soccer{
+        content: url(../images/mobile/image-soccer-team.jpg);
+        width: 88rem;
+        height: 23rem;
+        padding: 2rem 0.5rem;
+    }
+    .ST{
+        position: absolute;
+        bottom: 14px;
+        left: 57px;
+        font-size: 40px;
+    }
+    .st{
+        margin-left: 0%;
+    }
+    .grid{
+        content: url(../images/mobile/image-grid.jpg);
+        width: 88rem;
+        height: 23rem;
+        padding: 2rem 0.5rem;
+    }
+    .TG{
+        position: absolute;
+        bottom: 14px;
+        left: 57px;
+        font-size: 40px;
+    }
+    .box2{
+        display: flex;
+        flex-direction: column;
+        margin-left: 12%;
+        margin-right: 25%;
+    }
+    .above{
+        content: url(../images/mobile/image-from-above.jpg);
+        width: 88rem;
+        height: 23rem;
+        padding: 2rem 0.5rem;
+    }
+    .FUP{
+        position: absolute;
+        bottom: 14px;
+        left: 57px;
+        font-size: 40px;
+    }
+    .borealis{
+        content: url(../images/mobile/image-pocket-borealis.jpg);
+        width: 88rem;
+        height: 23rem;
+        padding: 2rem 0.5rem;
+    }
+    .PB{
+        position: absolute;
+        bottom: 14px;
+        left: 57px;
+        font-size: 40px;
+    }
+    .curiosity{
+        content: url(../images/mobile/image-curiosity.jpg);
+        width: 88rem;
+        height: 23rem;
+        padding: 2rem 0.5rem;
+    }
+    .TC{
+        position: absolute;
+        bottom: 14px;
+        left: 57px;
+        font-size: 40px;
+    }
+    .fisheye{
+        content: url(../images/mobile/image-fisheye.jpg);
+        width: 88rem;
+        height: 23rem;
+        padding: 2rem 0.5rem;
+    }
+    .MIF{
+        position: absolute;
+        bottom: 14px;
+        left: 57px;
+        font-size: 40px;
+    }
+    footer {
+        background-color: hsl(0, 0%, 0%);
+        height: 42rem;
+        color: white;
+        margin-top: 10%;
+        width: 106rem;
+    }
+    .footer_links{
+        /* display: flex;
+        /* justify-content: center; */
+        flex-direction: column;
+        /* position: relative; */
+        line-height: 3rem;
+        margin-left: 46%;
+        margin-top: 2%;
+        font-size: 30px;
+        list-style: none;
+    }
+    .main{
+        padding-left: 43%;
+        margin-top: 4%;
+    }
+    .icons{
+        margin-top: -6%;
+        margin-left: 42%;
+        margin-right: 0%;
+        font-size: 146px;  
+    }
+    .copyright{
+        color: hsl(0, 0%, 41%);
+        padding-left: 28%;
+        padding-top: 1%;
+        font-size: 40px;
+    }  
+}
+ 
