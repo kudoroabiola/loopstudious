@@ -5,10 +5,10 @@
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
-        padding: 4rem 2.5rem;
+        /* padding: 4rem 2.5rem; */
         position: relative;
-        height: 98rem;
-        width: 64rem;
+        height: 132rem;
+        width: 77rem;
         font-family: 'Alata', 'josefin';
     }
     body{
@@ -53,8 +53,11 @@
     }
     .text-wrap{
         width: 175vw;
-        
-        }
+    }
+    .des{
+        padding-left: 35%;
+        padding-right: 4%;
+    }
     
     .desc2{
         border: 1px solid white;
@@ -66,7 +69,7 @@
         font-size: 33px;
     }
     .img1{
-        width: 58rem;
+        width: 69rem;
         height: 39rem;
         padding: 2rem 1.5rem;
         content: url(../images/mobile/image-interactive.jpg);
@@ -78,7 +81,7 @@
     .title2{
         text-align: center;
         border: 1px solid white;
-        margin-left: 40%;
+        margin-left: 58%;
         margin-right: -20%;
         font-size: 40px;
         margin-top: 17%;
@@ -89,8 +92,8 @@
     .title3{
         font-size: 40px;
         text-align: center;
-        margin-left: 90%;
-        margin-right: -110%;
+        margin-left: 110%;
+        margin-right: -129%;
         margin-top: 80%;
     }
     .btn1{
@@ -107,8 +110,8 @@
         
     }
     .button{
-        margin-left: 105%;
-        margin-right: -155%;
+        margin-left: 125%;
+        margin-right: -160%;
         display: block;
     }
     .btn2{
@@ -130,7 +133,7 @@
     }
     .deep{
         content: url(../images/mobile/image-deep-earth.jpg);
-        width: 60rem;
+        width: 69rem;
         height: 22rem;
         padding: 2rem 1rem;
     }
@@ -142,7 +145,7 @@
     }
     .arcade{
         content: url(../images/mobile/image-night-arcade.jpg);
-        width: 60rem;
+        width: 69rem;
         height: 22rem;
         padding: 2rem 1rem;
     }
@@ -154,7 +157,7 @@
     }
     .soccer{
         content: url(../images/mobile/image-soccer-team.jpg);
-        width: 60rem;
+        width: 69rem;
         height: 22rem;
         padding: 2rem 1rem;
     }
@@ -166,7 +169,7 @@
     }
     .grid{
         content: url(../images/mobile/image-grid.jpg);
-        width: 60rem;
+        width: 69rem;
         height: 22rem;
         padding: 2rem 1rem;
     }
@@ -184,7 +187,7 @@
     }
     .above{
         content: url(../images/mobile/image-from-above.jpg);
-        width: 60rem;
+        width: 69rem;
         height: 22rem;
         padding: 2rem 1rem;
     }
@@ -196,7 +199,7 @@
     }
     .borealis{
         content: url(../images/mobile/image-pocket-borealis.jpg);
-        width: 60rem;
+        width: 69rem;
         height: 22rem;
         padding: 2rem 1rem;
     }
@@ -208,7 +211,7 @@
     }
     .curiosity{
         content: url(../images/mobile/image-curiosity.jpg);
-        width: 60rem;
+        width: 69rem;
         height: 22rem;
         padding: 2rem 1rem;
     }
@@ -220,7 +223,7 @@
     }
     .fisheye{
         content: url(../images/mobile/image-fisheye.jpg);
-        width: 60rem;
+        width: 69rem;
         height: 22rem;
         padding: 2rem 1rem;
     }
@@ -235,7 +238,7 @@
         height: 37rem;
         color: white;
         margin-top: 10%;
-        width: 68rem;
+        width: 77rem;
     }
     .footer_links{
         display: flex;
