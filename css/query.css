@@ -274,10 +274,10 @@
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
-        padding: 4rem 2.5rem;
+        /* padding: 4rem 2.5rem; */
         position: relative;
-        height: 98rem;
-        width: 77rem;
+        height: 145rem;
+        width: 84rem;
         font-family: 'Alata', 'josefin';
     }
     body{
@@ -336,7 +336,7 @@
         font-size: 44px;
         }
     .img1{
-        width: 69rem;
+        width: 71rem;
         height: 39rem;
         padding: 5rem 1.5rem;
         content: url(../images/mobile/image-interactive.jpg);
@@ -396,7 +396,7 @@
     }
     .deep{
         content: url(../images/mobile/image-deep-earth.jpg);
-        width: 69rem;
+        width: 72rem;
         height: 22rem;
         padding: 2rem 0.5rem;
     }
@@ -408,7 +408,7 @@
     }
     .arcade{
         content: url(../images/mobile/image-night-arcade.jpg);
-        width: 69rem;
+        width: 72rem;
         height: 22rem;
         padding: 2rem 0.5rem;
     }
@@ -420,7 +420,7 @@
     }
     .soccer{
         content: url(../images/mobile/image-soccer-team.jpg);
-        width: 69rem;
+        width: 72rem;
         height: 22rem;
         padding: 2rem 0.5rem;
     }
@@ -435,7 +435,7 @@
     }
     .grid{
         content: url(../images/mobile/image-grid.jpg);
-        width: 69rem;
+        width: 72rem;
         height: 22rem;
         padding: 2rem 0.5rem;
     }
@@ -453,7 +453,7 @@
     }
     .above{
         content: url(../images/mobile/image-from-above.jpg);
-        width: 69rem;
+        width: 72rem;
         height: 22rem;
         padding: 2rem 0.5rem;
     }
@@ -465,7 +465,7 @@
     }
     .borealis{
         content: url(../images/mobile/image-pocket-borealis.jpg);
-        width: 69rem;
+        width: 72rem;
         height: 22rem;
         padding: 2rem 0.5rem;
     }
@@ -477,7 +477,7 @@
     }
     .curiosity{
         content: url(../images/mobile/image-curiosity.jpg);
-        width: 69rem;
+        width: 72rem;
         height: 22rem;
         padding: 2rem 0.5rem;
     }
@@ -489,7 +489,7 @@
     }
     .fisheye{
         content: url(../images/mobile/image-fisheye.jpg);
-        width: 69rem;
+        width: 72rem;
         height: 22rem;
         padding: 2rem 0.5rem;
     }
@@ -504,7 +504,7 @@
         height: 38rem;
         color: white;
         margin-top: 10%;
-        width: 82rem;
+        width: 84rem;
     }
     .footer_links{
         /* display: flex;
@@ -548,7 +548,7 @@
         background-repeat: no-repeat; 
         background-position: center;
         background-size: cover;
-        padding: 4rem 2.5rem;
+        /* padding: 4rem 2.5rem; */
         position: relative;
         height: 198rem;
         width: 114rem;
